@@ -1,1 +1,3 @@
-# react-three-loading-and-animating-models
+# React Three Fiber Loading and Animating Models
+
+![Screnshot](/screenshot.png?raw=true "Screenshot")
